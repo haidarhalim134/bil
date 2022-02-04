@@ -5,7 +5,7 @@ import Final from './Components/Final';
 import Infographics from './Components/Infographics';
 import Review from './Components/Review';
 import Skills from './Components/Skills';
-import SkillsList from './Components/SkillsList';
+// import SkillsList from './Components/SkillsList';
 import Title from './Components/Title'
 
 function HomePage() {
@@ -16,7 +16,6 @@ function HomePage() {
         <Infographics />
         <Skills />
         <Review />
-        <SkillsList />
         <Final />
         <Footer />
       </Fragment>
