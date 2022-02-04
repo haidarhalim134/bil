@@ -20,7 +20,7 @@ function Infographics() {
                   style={{ maxWidth: "90%", maxHeight: "90%" }}
                 />
               </IconWrap>
-              <Desc white={true}>asjdkj aksjdhksadhu ojuwpej ldki njwl</Desc>
+              <Desc white={true}>Lorem ipsum dolor sit amet consectetur</Desc>
             </ItemWrap>
             <ItemWrap>
               <IconWrap>
@@ -30,7 +30,7 @@ function Infographics() {
                   style={{ maxWidth: "90%", maxHeight: "90%" }}
                 />
               </IconWrap>
-              <Desc white={true}>asjdkj aksjdhksadhu ojuwpej ldki njwl</Desc>
+              <Desc white={true}>Lorem ipsum dolor sit amet consectetur</Desc>
             </ItemWrap>
             <ItemWrap>
               <IconWrap>
@@ -40,7 +40,7 @@ function Infographics() {
                   style={{ maxWidth: "90%", maxHeight: "90%" }}
                 />
               </IconWrap>
-              <Desc white={true}>asjdkj aksjdhksadhu ojuwpej ldki njwl</Desc>
+              <Desc white={true}>Lorem ipsum dolor sit amet consectetur</Desc>
             </ItemWrap>
           </Decor>
         </DecorWrap>
@@ -53,22 +53,22 @@ function Infographics() {
               <IconWrap>
                 <Icon src={Img4} alt="" />
               </IconWrap>
-              <Desc title={true}>ojuwpej ldki njwl</Desc>
-              <Desc>asjdkj aksjdhksadhu ojuwpej ldki njwl</Desc>
+              <Desc title={true}>Lorem ipsum dolor</Desc>
+              <Desc>Lorem ipsum dolor sit amet consectetur</Desc>
             </ItemWrap>
             <ItemWrap>
               <IconWrap>
                 <Icon src={Img5} alt="" />
               </IconWrap>
-              <Desc title={true}>ojuwpej ldki njwl</Desc>
-              <Desc>asjdkj aksjdhksadhu ojuwpej ldki njwl</Desc>
+              <Desc title={true}>Lorem ipsum dolor</Desc>
+              <Desc>Lorem ipsum dolor sit amet consectetur</Desc>
             </ItemWrap>
             <ItemWrap>
               <IconWrap>
                 <Icon src={Img6} alt="" />
               </IconWrap>
-              <Desc title={true}>ojuwpej ldki njwl</Desc>
-              <Desc>asjdkj aksjdhksadhu ojuwpej ldki njwl</Desc>
+              <Desc title={true}>Lorem ipsum dolor</Desc>
+              <Desc>Lorem ipsum dolor sit amet consectetur</Desc>
             </ItemWrap>
           </NormalWrap>
         </DecorWrap>

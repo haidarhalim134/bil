@@ -14,8 +14,8 @@ function Title() {
     <TitleContainer>
       <TitleBg style={{ backgroundImage: `url(${BgImg})` }}></TitleBg>
       <TitleWrap>
-        <TitleText>dsadh alskdjli asdkl</TitleText>
-        <DescText>alsdhjlj jkalksdjals lakjhdlk</DescText>
+        <TitleText>Lorem ipsum dolor sit</TitleText>
+        <DescText>Lorem ipsum dolor sit amet</DescText>
         <ButtonRound to="/" color={"#d19b3b"} hover={"#f14963"}>
           Start Now <i class="fas fa-arrow-right"></i>
         </ButtonRound>

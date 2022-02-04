@@ -11,26 +11,26 @@ function Review() {
         <ReviewWrap>
           <ProfileWrap>
             <ProfileImg src={Rev1} />
-            <Name>OIJasd kdnslk</Name>
+            <Name>Lorem ipsum dolor</Name>
             <Desc>
-              osaidhn iajsdpoia oiajsdps kijelkwen ;kdsja;od osaidhn iajsdpoia
-              oiajsdps kijelkwen ;kdsja;od
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt
             </Desc>
           </ProfileWrap>
           <ProfileWrap>
             <ProfileImg src={Rev2} />
-            <Name>OIJasd kdnslk</Name>
+            <Name>Lorem ipsum dolor</Name>
             <Desc>
-              osaidhn iajsdpoia oiajsdps kijelkwen ;kdsja;od osaidhn iajsdpoia
-              oiajsdps kijelkwen ;kdsja;od
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt
             </Desc>
           </ProfileWrap>
           <ProfileWrap>
             <ProfileImg src={Rev3} />
-            <Name>OIJasd kdnslk</Name>
+            <Name>Lorem ipsum dolor</Name>
             <Desc>
-              osaidhn iajsdpoia oiajsdps kijelkwen ;kdsja;od osaidhn iajsdpoia
-              oiajsdps kijelkwen ;kdsja;od
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt
             </Desc>
           </ProfileWrap>
         </ReviewWrap>

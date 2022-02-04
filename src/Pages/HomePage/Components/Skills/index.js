@@ -25,8 +25,8 @@ function Skills() {
         </TextWrap>
         <SkillWrap>
           <SkillTextwrap left={true}>
-            <SkillTitle left={true}>aisoj di poijp aslkd</SkillTitle>
-            <Desc left={true}>ansdliasnh paoijsdpoas aisoj di poijp aslkd</Desc>
+            <SkillTitle left={true}>Lorem ipsum dolor sit</SkillTitle>
+            <Desc left={true}>Lorem ipsum dolor sit amet consectetur</Desc>
             <ButtonRound to="/" color={"#d19b3b"} hover={"#f14963"}>
               Start Now <i class="fas fa-arrow-right"></i>
             </ButtonRound>
@@ -40,8 +40,8 @@ function Skills() {
             <Img src={SkillL2} alt="" />
           </ImgWrap>
           <SkillTextwrap>
-            <SkillTitle>aisoj di poijp aslkd</SkillTitle>
-            <Desc>ansdliasnh paoijsdpoas aisoj di poijp aslkd</Desc>
+            <SkillTitle>Lorem ipsum dolor sit</SkillTitle>
+            <Desc>Lorem ipsum dolor sit amet consectetur</Desc>
             <ButtonRound to="/" color={"#45ebd5"} hover={"#f14963"}>
               Start Now <i class="fas fa-arrow-right"></i>
             </ButtonRound>
@@ -49,8 +49,8 @@ function Skills() {
         </SkillWrap>
         <SkillWrap>
           <SkillTextwrap left={true}>
-            <SkillTitle left={true}>aisoj di poijp aslkd</SkillTitle>
-            <Desc left={true}>ansdliasnh paoijsdpoas aisoj di poijp aslkd</Desc>
+            <SkillTitle left={true}>Lorem ipsum dolor sit</SkillTitle>
+            <Desc left={true}>Lorem ipsum dolor sit amet consectetur</Desc>
             <ButtonRound to="/" color={"#fe8050"} hover={"#f14963"}>
               Start Now <i class="fas fa-arrow-right"></i>
             </ButtonRound>
